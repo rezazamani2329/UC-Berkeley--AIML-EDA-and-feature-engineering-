@@ -78,10 +78,6 @@ See Jupyter notebook for detailed analysis: [Data Analysis Report](prompt-final.
 - Based on these observations, the porbability of accepting the bar coupons for the Student and Unemployed drivers are more than others.
 - Based on these observations, the porbability of accepting the bar coupons for the drivers who are Alone is higher than the others.
 
-- Coupons Accepted by group one is 68.8 percent
-- Coupons Accepted by group two is 72.2 percent
-- Coupons Accepted by group three is 73.3 percent
-
 ### Independent Investigation
 -Using the bar coupon example as motivation, you are to explore one of the other coupon groups and try to determine the characteristics of passengers who accept the coupons. 
 -we chose Coffe House as it has the highest acceptance
