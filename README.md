@@ -46,12 +46,13 @@ See Jupyter notebook for detailed analysis: prompt-final.ipynb
 
 ## Investigating the Bar Coupons
 #### What proportion of bar coupons were accepted? 
-- Proportion of accepted bar coupons: 0.41, meaning about 41% of drivers accepted the bar coupons.
-- Coupons Accepted for those who went to a bar more than once a month and are also more than 25 is about 0.70 percent
-- Coupons Accepted by all others is about 0.39 percent
-- There is remarkable differece of acceptance between two groups (diffrence between them is about 0.30 percent)
+- Proportion of the total observations that chose to accept the coupon: 41.00%
+- Percent of visitors (between 1 to 3 times per month) accepted coupons: 64.7%
+- Coupons Accepted for those who went to a bar more than once a month and are also more than 25 is about 69.52 percent
+- Coupons Accepted by all others is about 39.33 percent
+- There is remarkable differece of acceptance between two groups (diffrence between them is about 30.19 percent)
 - Coupons Accepted by drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry is about:
-        0.69 percent
+        68.79 percent
 
 ### more groupby 
 - Group 1 : go to bars more than once a month, had passengers that were not a kid, and were not widowed
