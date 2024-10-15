@@ -39,7 +39,7 @@ See Jupyter notebook for detailed analysis: prompt-final.ipynb
 
 ### Data Visualization 
 - we check data, find one column is not revelant.
--we check null data, and then decide to fill them with mode 
+- we check null data, and then decide to fill them with mode 
 
 ### What proportion of the total observations chose to accept the coupon
 - Proportion of the total observations that chose to accept the coupon: 56.84%
