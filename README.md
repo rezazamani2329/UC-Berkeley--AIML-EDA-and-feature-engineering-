@@ -10,11 +10,11 @@
 - Based on these observations, the porbability of accepting the bar coupons for the drivers who are Alone is higher than the others.
 
 ### Ressults for accepting the coupon of coffe house by drivers:
-1- diver with lower than 25000 have the highe probability to accept
-2- Unempployed and Students dirvers are more likely to accpet
-3- No ergent place for expiration is more likely to be accepted
-4- No ergent place for destination is more likely to be accepted
-5- Alone passenger is more likely to be accepted
-6- driver with the age of 21 and 26 are more likely to accept
-7- there is no significant difference between men and women to accpet
-8- it is more likely to accept the coupon in sunny weather
+- diver with lower than 25000 have the highe probability to accept
+- Unempployed and Students dirvers are more likely to accpet
+- No ergent place for expiration is more likely to be accepted
+- No ergent place for destination is more likely to be accepted
+- Alone passenger is more likely to be accepted
+- driver with the age of 21 and 26 are more likely to accept
+- there is no significant difference between men and women to accpet
+- it is more likely to accept the coupon in sunny weather
