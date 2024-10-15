@@ -39,14 +39,6 @@ See Jupyter notebook for detailed analysis: prompt-final.ipynb
 
 ### Data Visualization 
 - we check data, find one column is not revelant.
-- check the number of null data, result is as following 
-- Number of ull data 
-- car                     12576
-- CoffeeHouse               217
-- Restaurant20To50          189
-- CarryAway                 151
-- RestaurantLessThan20      130
-- Bar                       107
 -we check null data, and then decide to fill them with mode 
 
 ### What proportion of the total observations chose to accept the coupon
