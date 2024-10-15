@@ -35,7 +35,7 @@ The attributes of this data set include:
 
 
 ## Key Findings
-See Jupyter notebook for detailed analysis: [Data Analysis Report](prompt-final.ipynb)
+See Jupyter notebook for detailed analysis: prompt-final.ipynb
 
 ### Data Visualization 
 - we check data, find one column is not revelant.
