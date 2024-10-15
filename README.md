@@ -4,7 +4,10 @@
 - 'data.csv': this files contains dataset used for this project 
 - prompt.ipynb: this file contains the codes for this project 
 
-
+### Results for accepting bar copoun by drivers: 
+1- Based on these observations, the porbability of accepting the bar coupons for drivers, whose age is 21, 26 or 31 is high.
+2- Based on these observations, the porbability of accepting the bar coupons for the Student and Unemployed drivers are more than others.
+3- Based on these observations, the porbability of accepting the bar coupons for the drivers who are Alone is higher than the others.
 
 ### Ressults for accepting the coupon of coffe house by drivers:
 1- diver with lower than 25000 have the highe probability to accept
