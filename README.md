@@ -38,15 +38,15 @@ The attributes of this data set include:
 See Jupyter notebook for detailed analysis: [Data Analysis Report](prompt-final.ipynb)
 
 ### Data Visualization 
--we check data, find one column is not revelant.
--check the number of null data, result is as following 
-Number of ull data 
- car                     12576
-CoffeeHouse               217
-Restaurant20To50          189
-CarryAway                 151
-RestaurantLessThan20      130
-Bar                       107
+- we check data, find one column is not revelant.
+- check the number of null data, result is as following 
+- Number of ull data 
+- car                     12576
+- CoffeeHouse               217
+- Restaurant20To50          189
+- CarryAway                 151
+- RestaurantLessThan20      130
+- Bar                       107
 -we check null data, and then decide to fill them with mode 
 
 ### What proportion of the total observations chose to accept the coupon
@@ -62,9 +62,9 @@ Bar                       107
         0.69 percent
 
 ### more groupby 
-Group 1 : go to bars more than once a month, had passengers that were not a kid, and were not widowed
-group 2 : go to bars more than once a month and are under the age of 30
-group 3 : go to cheap restaurants more than 4 times a month and income is less than 50K
+-Group 1 : go to bars more than once a month, had passengers that were not a kid, and were not widowed
+-group 2 : go to bars more than once a month and are under the age of 30
+-group 3 : go to cheap restaurants more than 4 times a month and income is less than 50K
 
 ### Based on these observations: 
 - Based on these observations, the porbability of accepting the bar coupons for drivers, whose age is 21, 26 or 31 is high.
@@ -76,7 +76,7 @@ group 3 : go to cheap restaurants more than 4 times a month and income is less t
 - Coupons Accepted by group three is 73.3 percent
 
 ### Independent Investigation
-Using the bar coupon example as motivation, you are to explore one of the other coupon groups and try to determine the characteristics of passengers who accept the coupons. 
+-Using the bar coupon example as motivation, you are to explore one of the other coupon groups and try to determine the characteristics of passengers who accept the coupons. 
 -we chose Coffe House as it has the highest acceptance
 - Ressults for accepting the coupon of coffe house by drivers:
 - diver with lower than 25000 have the highe probability to accept
