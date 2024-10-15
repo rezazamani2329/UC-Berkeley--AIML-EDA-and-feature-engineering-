@@ -2,7 +2,7 @@
 - This repo contains the files for the project PCMLAI Module 5 assignment 
 #### Description of files in the repo
 - 'coupons.csv': this files contains dataset used for this project 
-- 'prompt-final.ipynb': this file contains the codes for this project 
+- 'prompt-final(2).ipynb': this file contains the codes for this project 
 ### Purpose: Analyze and identify the factors that influence a driver's decision to accept coupons delivered to their cell phones while driving.
 
 ## Data Description
