@@ -62,9 +62,16 @@ See Jupyter notebook for detailed analysis: [Data Analysis Report](prompt-final.
         0.69 percent
 
 ### more groupby 
--Group 1 : go to bars more than once a month, had passengers that were not a kid, and were not widowed
--group 2 : go to bars more than once a month and are under the age of 30
--group 3 : go to cheap restaurants more than 4 times a month and income is less than 50K
+- Group 1 : go to bars more than once a month, had passengers that were not a kid, and were not widowed
+- group 2 : go to bars more than once a month and are under the age of 30
+- group 3 : go to cheap restaurants more than 4 times a month and income is less than 50K
+
+---------------------
+- Coupons Accepted by group one is 68.8 percent
+---------------------
+- Coupons Accepted by group two is 72.2 percent
+---------------------
+- Coupons Accepted by group three is 73.3 percent
 
 ### Based on these observations: 
 - Based on these observations, the porbability of accepting the bar coupons for drivers, whose age is 21, 26 or 31 is high.
