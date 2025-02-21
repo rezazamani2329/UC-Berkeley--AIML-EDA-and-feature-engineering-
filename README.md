@@ -1,4 +1,4 @@
-# Practical-Application-Module-5
+# feature engineering and exploratory Data Analysis (EDA) to driver's decision to accept coupons delivered to their cell phones while driving
 - This repo contains the files for the project PCMLAI Module 5 assignment 
 #### Description of files in the repo
 - 'coupons.csv': this files contains dataset used for this project 
